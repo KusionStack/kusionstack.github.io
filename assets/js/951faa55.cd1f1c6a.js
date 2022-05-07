@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9403],{6923:function(e){e.exports=JSON.parse('{"title":"\u66f4\u65b0\u65e5\u5fd7","items":[{"title":"v0.4.2-dev","permalink":"/changelog/v0.4.2-dev"}]}')}}]);

@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KusionStack changelog",
+    "home_page_url": "https://kusionstack.io/changelog",
+    "description": "Keep yourself up-to-date about new features in every release",
+    "items": [
+        {
+            "id": "/v0.4.2-dev",
+            "content_html": "<p>Coming soon...</p>",
+            "url": "https://kusionstack.io/changelog/v0.4.2-dev",
+            "title": "v0.4.2-dev",
+            "summary": "Coming soon...",
+            "date_modified": "2022-05-05T20:00:00.000Z",
+            "tags": []
+        }
+    ]
+}
