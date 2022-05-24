@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5752],{23495:function(e){e.exports=JSON.parse('{"permalink":"/changelog","page":1,"postsPerPage":20,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Keep yourself up-to-date about new features in every release","blogTitle":"KusionStack \u66f4\u65b0\u65e5\u5fd7"}')}}]);

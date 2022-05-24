@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1713],{3457:function(s){s.exports=JSON.parse('{"kcl":{"allTagsPath":"/blog/tags","slug":"/blog/tags/kcl","name":"kcl","count":1,"permalink":"/blog/tags/kcl"},"kusion":{"allTagsPath":"/blog/tags","slug":"/blog/tags/kusion","name":"kusion","count":1,"permalink":"/blog/tags/kusion"}}')}}]);
