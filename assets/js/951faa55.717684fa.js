@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9403],{56923:function(e){e.exports=JSON.parse('{"title":"Changelog","items":[{"title":"v0.4.1","permalink":"/changelog/v0.4.1"}]}')}}]);
