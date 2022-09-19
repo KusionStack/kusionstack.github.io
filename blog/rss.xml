@@ -4,9 +4,19 @@
         <title>KusionStack Blog</title>
         <link>https://kusionstack.io/blog</link>
         <description>KusionStack Blog</description>
-        <lastBuildDate>Fri, 16 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KusionStack Origin, present and future]]></title>
+            <link>https://kusionstack.io/blog/2022-origin-present-and-future</link>
+            <guid>2022-origin-present-and-future</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[KusionStack Origin, present and future]]></description>
+            <content:encoded><![CDATA[<p><a target="_blank" href="/assets/files/KusionStack-origin-present-and-future-352c9a718f58d3aa0a6f123dae46a409.pdf"><img loading="lazy" alt="KusionStack Origin, present and future" src="/assets/images/KusionStack-origin-present-and-future-c678397b18a35d71fe4661a12eb16666.png" width="2636" height="1476"></a></p><p><a href="https://kusionstack.io/talks/KusionStack-origin-present-and-future.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>]]></content:encoded>
+            <category>KusionStack</category>
+            <category>Kusion</category>
+        </item>
         <item>
             <title><![CDATA[What We Learned From Large-scale Platform Engineering Practices]]></title>
             <link>https://kusionstack.io/blog/2022-lean-from-scale-practice</link>
