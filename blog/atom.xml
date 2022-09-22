@@ -36,7 +36,7 @@
         <category label="Platform Engineering" term="Platform Engineering"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[声明式配置技术概述]]></title>
+        <title type="html"><![CDATA[Declarative Configuration Overview]]></title>
         <id>2022-declarative-config-overview</id>
         <link href="https://kusionstack.io/blog/2022-declarative-config-overview"/>
         <updated>2022-09-15T00:00:00.000Z</updated>
@@ -77,7 +77,7 @@
         <category label="Configuration" term="Configuration"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KusionStack 开源有感]]></title>
+        <title type="html"><![CDATA[Sense of KusionStack Open Day]]></title>
         <id>2022-sense-of-open-day</id>
         <link href="https://kusionstack.io/blog/2022-sense-of-open-day"/>
         <updated>2022-06-07T00:00:00.000Z</updated>

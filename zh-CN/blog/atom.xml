@@ -34,7 +34,7 @@
         <category label="Kusion" term="Kusion"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[声明式配置技术概述]]></title>
+        <title type="html"><![CDATA[Declarative Configuration Overview]]></title>
         <id>2022-declarative-config-overview</id>
         <link href="https://kusionstack.io/zh-CN/blog/2022-declarative-config-overview"/>
         <updated>2022-09-15T00:00:00.000Z</updated>
