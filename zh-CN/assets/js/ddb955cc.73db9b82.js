@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9560],{90670:s=>{s.exports=JSON.parse('{"allTagsPath":"/zh-CN/blog/tags","slug":"/zh-CN/blog/tags/kusion-stack","name":"KusionStack","count":4,"permalink":"/zh-CN/blog/tags/kusion-stack"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8742],{4583:e=>{e.exports=JSON.parse('{"permalink":"/zh-CN/blog/tags/kusion/page/3","page":3,"postsPerPage":2,"totalPages":3,"totalCount":5,"previousPage":"/zh-CN/blog/tags/kusion/page/2","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
