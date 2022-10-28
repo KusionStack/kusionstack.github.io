@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>KusionStack Blog</title>
+        <title>Collaborate, Automate Blog</title>
         <link>https://kusionstack.io/zh-CN/blog</link>
-        <description>KusionStack Blog</description>
+        <description>Collaborate, Automate Blog</description>
         <lastBuildDate>Mon, 19 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
