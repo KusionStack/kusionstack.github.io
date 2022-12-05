@@ -4,9 +4,19 @@
         <title>Collaborate, Automate Blog</title>
         <link>https://kusionstack.io/zh-CN/blog</link>
         <description>Collaborate, Automate Blog</description>
-        <lastBuildDate>Mon, 19 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KusionStack:“后云原生时代” 应用规模化运维解决方案]]></title>
+            <link>https://kusionstack.io/zh-CN/blog/2022-kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era</link>
+            <guid>2022-kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[KusionStack:“后云原生时代” 应用规模化运维解决方案]]></description>
+            <content:encoded><![CDATA[<p><a href="https://github.com/KusionStack/community/raw/main/2022/talkgo/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="KusionStack:“后云原生时代” 应用规模化运维解决方案" src="/zh-CN/assets/images/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era-f1f693d4bb2d7609a6434ad99d790296.png" width="1100" height="619"></a></p><p><a href="https://github.com/KusionStack/community/raw/main/2022/talkgo/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>]]></content:encoded>
+            <category>KusionStack</category>
+            <category>Kusion</category>
+        </item>
         <item>
             <title><![CDATA[KusionStack Origin, present and future]]></title>
             <link>https://kusionstack.io/zh-CN/blog/2022-origin-present-and-future</link>

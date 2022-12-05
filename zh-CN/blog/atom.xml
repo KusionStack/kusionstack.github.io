@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kusionstack.io/zh-CN/blog</id>
     <title>Collaborate, Automate Blog</title>
-    <updated>2022-09-19T00:00:00.000Z</updated>
+    <updated>2022-11-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kusionstack.io/zh-CN/blog"/>
     <subtitle>Collaborate, Automate Blog</subtitle>
     <icon>https://kusionstack.io/zh-CN/img/kcl-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KusionStack:“后云原生时代” 应用规模化运维解决方案]]></title>
+        <id>2022-kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era</id>
+        <link href="https://kusionstack.io/zh-CN/blog/2022-kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era"/>
+        <updated>2022-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KusionStack:“后云原生时代” 应用规模化运维解决方案]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://github.com/KusionStack/community/raw/main/2022/talkgo/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="KusionStack:“后云原生时代” 应用规模化运维解决方案" src="/zh-CN/assets/images/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era-f1f693d4bb2d7609a6434ad99d790296.png" width="1100" height="619"></a></p><p><a href="https://github.com/KusionStack/community/raw/main/2022/talkgo/kusionstack-application-scale-operation-solution-in-the-post-cloudnative-era.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>]]></content>
+        <author>
+            <name>李大元</name>
+        </author>
+        <category label="KusionStack" term="KusionStack"/>
+        <category label="Kusion" term="Kusion"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KusionStack Origin, present and future]]></title>
         <id>2022-origin-present-and-future</id>
