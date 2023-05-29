@@ -4,7 +4,7 @@
   <ShortName>Collaborate, Automate</ShortName>
   <Description>Search Collaborate, Automate</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://kusionstack.io/img/kcl-logo.png</Image>
+  <Image width="16" height="16" type="image/x-icon">https://kusionstack.io/img/kusionstack-icon-square.png</Image>
   <Url type="text/html" method="get" template="https://kusionstack.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://kusionstack.io/opensearch.xml" />
   <moz:SearchForm>https://kusionstack.io/</moz:SearchForm>
