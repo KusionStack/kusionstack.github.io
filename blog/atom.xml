@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kusionstack.io/blog</id>
-    <title>Collaborate, Automate Blog</title>
+    <title>Organize, Code, Run Blog</title>
     <updated>2022-12-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kusionstack.io/blog"/>
-    <subtitle>Collaborate, Automate Blog</subtitle>
+    <subtitle>Organize, Code, Run Blog</subtitle>
     <icon>https://kusionstack.io/img/kusionstack-icon-square.png</icon>
     <entry>
         <title type="html"><![CDATA[How to scale operation in Post Cloud Native Era?]]></title>
