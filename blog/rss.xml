@@ -4,9 +4,19 @@
         <title>Evolve your Internal Developer Platform with KusionStack Blog</title>
         <link>https://kusionstack.io/blog</link>
         <description>Evolve your Internal Developer Platform with KusionStack Blog</description>
-        <lastBuildDate>Mon, 12 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ant Group's Platform Engineering Practice at Scale]]></title>
+            <link>https://kusionstack.io/blog/2023-05-26-qcon-guangzhou</link>
+            <guid>2023-05-26-qcon-guangzhou</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ant Group's Platform Engineering Practice at Scale]]></description>
+            <content:encoded><![CDATA[<p><a href="https://github.com/KusionStack/community/raw/main/2023/qcon-guangzhou/Ant-Groups-Platform-Engineering-Practice-at-Scale-en.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Ant Group&amp;#39;s Platform Engineering Practice at Scale" src="/assets/images/qcon-cover-en-eff8de0d99fb7e7f3c2601ee89f8a9f0.jpg" width="2678" height="1512"></a></p><p><a href="https://github.com/KusionStack/community/raw/main/2023/qcon-guangzhou/Ant-Groups-Platform-Engineering-Practice-at-Scale-en.pdf" target="_blank" rel="noopener noreferrer">Download PPT</a></p>]]></content:encoded>
+            <category>KusionStack</category>
+            <category>Kusion</category>
+        </item>
         <item>
             <title><![CDATA[How to scale operation in Post Cloud Native Era?]]></title>
             <link>https://kusionstack.io/blog/2022-post-cloud-native-era-operation</link>

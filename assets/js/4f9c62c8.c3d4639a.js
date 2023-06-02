@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6803],{57719:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/kusion/page/2","page":2,"postsPerPage":2,"totalPages":4,"totalCount":7,"previousPage":"/blog/tags/kusion","nextPage":"/blog/tags/kusion/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

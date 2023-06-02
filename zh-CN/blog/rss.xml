@@ -4,9 +4,19 @@
         <title>Evolve your Internal Developer Platform with KusionStack Blog</title>
         <link>https://kusionstack.io/zh-CN/blog</link>
         <description>Evolve your Internal Developer Platform with KusionStack Blog</description>
-        <lastBuildDate>Mon, 12 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[蚂蚁集团平台工程规模化实践]]></title>
+            <link>https://kusionstack.io/zh-CN/blog/2023-05-26-qcon-guangzhou</link>
+            <guid>2023-05-26-qcon-guangzhou</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ant Group's Platform Engineering Practice at Scale]]></description>
+            <content:encoded><![CDATA[<p><a href="https://github.com/KusionStack/community/raw/main/2023/qcon-guangzhou/Ant-Groups-Platform-Engineering-Practice-at-Scale-cn.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Ant Group&amp;#39;s Platform Engineering Practice at Scale" src="/zh-CN/assets/images/qcon-cover-cn-11da2ef6a9d25aa31d081b85535df3d1.jpg" width="2684" height="1506"></a></p><p><a href="https://github.com/KusionStack/community/raw/main/2023/qcon-guangzhou/Ant-Groups-Platform-Engineering-Practice-at-Scale-cn.pdf" target="_blank" rel="noopener noreferrer">下载 PPT</a></p>]]></content:encoded>
+            <category>KusionStack</category>
+            <category>Kusion</category>
+        </item>
         <item>
             <title><![CDATA[已来到 “后云原生时代” 的我们，如何规模化运维？]]></title>
             <link>https://kusionstack.io/zh-CN/blog/2022-post-cloud-native-era-operation</link>
