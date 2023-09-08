@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[362],{2042:e=>{e.exports=JSON.parse('{"label":"KCLVM","permalink":"/blog/tags/kclvm","allTagsPath":"/blog/tags","count":1}')}}]);
