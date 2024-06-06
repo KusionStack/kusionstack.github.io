@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[72993],{94014:e=>{e.exports=JSON.parse('{"permalink":"/zh/blog/tags/platform-engineering","page":1,"postsPerPage":2,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
