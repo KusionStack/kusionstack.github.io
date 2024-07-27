@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kusionstack.io/zh/blog</id>
-    <title>Evolve Your Internal Developer Platform with KusionStack Blog</title>
+    <title>Transform Your Internal Developer Platform with KusionStack Blog</title>
     <updated>2023-05-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kusionstack.io/zh/blog"/>
-    <subtitle>Evolve Your Internal Developer Platform with KusionStack Blog</subtitle>
+    <subtitle>Transform Your Internal Developer Platform with KusionStack Blog</subtitle>
     <icon>https://kusionstack.io/zh/img/kusionstack-icon-square.png</icon>
     <entry>
         <title type="html"><![CDATA[Ant Group's Platform Engineering Practice at Scale]]></title>
